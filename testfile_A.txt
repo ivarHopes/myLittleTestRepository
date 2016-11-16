@@ -1,3 +1,4 @@
 This is a test
 -With an alteration
 --This should cause a merge conflict
+---This should NOT cause a merge conflict
