@@ -1,2 +1,3 @@
 Dette er en annen test
 -Dette er en ny linje
+--Jøss! Enda en linje!
