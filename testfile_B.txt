@@ -1,2 +1,3 @@
 Dette er en annen test
 --testline2
+basf
